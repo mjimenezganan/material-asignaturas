@@ -37,7 +37,7 @@ class MiHandler(BaseHTTPRequestHandler):
             </head>
             <body>
                 <div class="contenedor">
-                    <h1>Ésta es la práctica de {ALUMNO}</h1>
+                    <h1>Esta es la práctica de {ALUMNO}</h1>
                     <p class="nota">Servidor HTTP sencillo en Python, escuchando en el puerto 8080.</p>
                 </div>
             </body>
